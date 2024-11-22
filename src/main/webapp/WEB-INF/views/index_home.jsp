@@ -10,6 +10,9 @@
 	<link rel="stylesheet" href="${contextPath}/resources/css/w3.css">
 </head>
 <body>
+
+<h1> Added a change to test github automatic pipeline trigger </h1>
+
 <div class="container-fluid">
     <nav class="navbar navbar-custom navbar-static-top" role="navigation" style="background-color: #e3f2fd;">
         <div class="container-fluid">
